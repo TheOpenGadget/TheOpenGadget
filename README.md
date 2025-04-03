@@ -1,11 +1,10 @@
-## Hi there 👋
-
 ## Welcome to TheOpenGadget's GitHub!
 Revolutionizing Technology, One Gadget at a Time!
 
 At TheOpenGadget, we are dedicated to shaping the future of technology by combining Artificial Intelligence, Robotics, Embedded Systems, PCB Design, and Electronics. Our mission is to build innovative, scalable, and intelligent solutions that transform industries and make life smarter and easier.
 
 Our team is driven by curiosity, creativity, and a passion for developing open-source, next-generation technologies. Whether it's building a smart robot, designing high-performance embedded systems, or crafting the next AI-powered device, we believe in pushing the boundaries of what’s possible.
+
 ### 🌟 What We Do
 
 We offer cutting-edge products and solutions in the following areas:

@@ -17,22 +17,6 @@ We offer cutting-edge products and solutions in the following areas:
 
     Robotics: Building robots that interact with the world, solve real problems, and learn from their environment. Our work includes robotic design, control systems, sensor integration, and autonomous navigation.
 
-### 🚀 Featured Projects
-
-Explore our open-source projects that cover the latest in AI, electronics, embedded development, and robotics:
-
-    AI-Powered Smart Robot: A fully autonomous robot equipped with advanced machine learning algorithms to navigate, learn, and adapt to its surroundings.
-
-    [Project Name]: A high-efficiency IoT device built on a custom PCB design, featuring edge AI capabilities for real-time data processing.
-
-    Robotic Arm Control System: An open-source control system for precision robotics, featuring motion planning, sensor feedback, and automation.
-
-    [Project Name]: A machine learning-based vision system for object detection, enabling robots to identify and interact with objects autonomously.
-
-    [Project Name]: A full-stack embedded solution for smart home automation, utilizing the latest in AI and microcontroller technology to provide seamless user experience and energy efficiency.
-
-    PCB Design Repository: Collection of open-source PCB schematics and design files, available for anyone to use and customize for their own hardware projects.
-
 ### 💡 Our Philosophy: Innovating for the Future
 
 At TheOpenGadget, we believe in open-source collaboration, where everyone can contribute to the advancement of technology. Our projects are designed not only to solve real-world challenges but also to help the community innovate and create.
